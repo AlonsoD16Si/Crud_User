@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DDB4d0vj9eqJOf+Jz26OIRGl2PGajjaC+cNpAeUkw9Q=",
+  "Source": "API_REST_DARIO",
+  "BasePath": "_content/API_REST_DARIO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

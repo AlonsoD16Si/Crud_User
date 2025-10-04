@@ -1,0 +1,6 @@
+@API_REST_DARIO_HostAddress = http://localhost:5004
+
+GET {{API_REST_DARIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
